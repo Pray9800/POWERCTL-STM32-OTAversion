@@ -92,7 +92,7 @@ int main(void)
   MX_GPIO_Init();
   MX_USART3_UART_Init();
   MX_TIM2_Init();
-  MX_IWDG_Init();
+ // MX_IWDG_Init();
   MX_ADC1_Init();
   /* USER CODE BEGIN 2 */
   //APP层
